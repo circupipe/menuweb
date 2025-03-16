@@ -1,0 +1,56 @@
+---PENDIENTES---
+
+estudiar git
+
+devsur
+contratar host
+
+hacer email.google
+hacer git
+
+
+---REGLAS---
+hacer libreria final, entre los dos putitos
+variables y funciones en ingles
+division por componentes
+estar pillo con use context
+usar root 
+
+---INVESTIGACION---
+
+horarios
+
+que carajos tiene un menu?
+
+cantidades
+promos
+enviar metodo de pago
+precios
+
+componentes Pizza Laly
+header 
+promociones (como actualizarlas?)
+carta
+el carrito
+sobre nosotros (historia y direccion con maps ahi todo monono(opcional))
+footer
+
+---MASIVO---
+pequeño back para los menus (la seguridad bien gracias)
+
+---POSIBLES ORIENTACIONES--
+menu
+local
+marca 
+servicios turnos
+canchita de fulbo'
+
+YA ESTARIA
+
+diseño un solo modo, tipo pedidos ya responsive, orientado a movil
+
+
+---ROBOS--
+
+¡Vendé sin límites con tu propia Tienda Online!
+Resolvé tus ventas por Delivery y aumenta tus ganancias sin intermediarios.
